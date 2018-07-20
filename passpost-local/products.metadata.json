@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"passpost-local.products"},{"v":2,"key":{"_fts":"text","_ftsx":1},"name":"tittle_text","ns":"passpost-local.products","background":true,"weights":{"tittle":1},"default_language":"english","language_override":"language","textIndexVersion":3}],"uuid":"b9ba37293fa44023831160f1d4e6ba52"}
